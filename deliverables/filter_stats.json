@@ -1,0 +1,106 @@
+{
+  "2023-02": {
+    "raw_rows": 2913955,
+    "filtered_rows": 488197,
+    "retention_pct": 16.75,
+    "mean_tip_rate": 0.26797638680334024,
+    "tip_incidence_pct": 97.14,
+    "seconds": 0.8
+  },
+  "2023-05": {
+    "raw_rows": 3513649,
+    "filtered_rows": 582199,
+    "retention_pct": 16.57,
+    "mean_tip_rate": 0.26319109576401906,
+    "tip_incidence_pct": 97.12,
+    "seconds": 0.3
+  },
+  "2023-08": {
+    "raw_rows": 2824209,
+    "filtered_rows": 449314,
+    "retention_pct": 15.91,
+    "mean_tip_rate": 0.26695820725424796,
+    "tip_incidence_pct": 96.46,
+    "seconds": 0.2
+  },
+  "2023-11": {
+    "raw_rows": 3339715,
+    "filtered_rows": 550065,
+    "retention_pct": 16.47,
+    "mean_tip_rate": 0.2656483903728528,
+    "tip_incidence_pct": 97.16,
+    "seconds": 0.2
+  },
+  "2024-02": {
+    "raw_rows": 3007526,
+    "filtered_rows": 510030,
+    "retention_pct": 16.96,
+    "mean_tip_rate": 0.26958168481364514,
+    "tip_incidence_pct": 96.99,
+    "seconds": 0.2
+  },
+  "2024-05": {
+    "raw_rows": 3723833,
+    "filtered_rows": 580450,
+    "retention_pct": 15.59,
+    "mean_tip_rate": 0.26585729677919834,
+    "tip_incidence_pct": 96.73,
+    "seconds": 0.3
+  },
+  "2024-08": {
+    "raw_rows": 2979183,
+    "filtered_rows": 439543,
+    "retention_pct": 14.75,
+    "mean_tip_rate": 0.26692552551593246,
+    "tip_incidence_pct": 95.64,
+    "seconds": 0.2
+  },
+  "2024-11": {
+    "raw_rows": 3646369,
+    "filtered_rows": 539876,
+    "retention_pct": 14.81,
+    "mean_tip_rate": 0.2646090642189622,
+    "tip_incidence_pct": 96.45,
+    "seconds": 0.2
+  },
+  "2025-02": {
+    "raw_rows": 3577543,
+    "filtered_rows": 509099,
+    "retention_pct": 14.23,
+    "mean_tip_rate": 0.2773873836696555,
+    "tip_incidence_pct": 96.31,
+    "seconds": 0.3
+  },
+  "2025-05": {
+    "raw_rows": 4591845,
+    "filtered_rows": 572602,
+    "retention_pct": 12.47,
+    "mean_tip_rate": 0.2703465506659904,
+    "tip_incidence_pct": 96.07,
+    "seconds": 0.9
+  },
+  "2025-08": {
+    "raw_rows": 3574091,
+    "filtered_rows": 408307,
+    "retention_pct": 11.42,
+    "mean_tip_rate": 0.275355485448564,
+    "tip_incidence_pct": 95.02,
+    "seconds": 0.3
+  },
+  "2025-11": {
+    "raw_rows": 4181444,
+    "filtered_rows": 498757,
+    "retention_pct": 11.93,
+    "mean_tip_rate": 0.2724220719410607,
+    "tip_incidence_pct": 95.48,
+    "seconds": 0.4
+  },
+  "2026-02": {
+    "raw_rows": 3399866,
+    "filtered_rows": 424568,
+    "retention_pct": 12.49,
+    "mean_tip_rate": 0.27167828405436467,
+    "tip_incidence_pct": 95.31,
+    "seconds": 0.2
+  }
+}
